@@ -4,8 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
-    "serve": "node app.js"
+    "serve": "node app.js",
+    "build": "npm install",
+    "start": "npm run build && npm serve"
   },
   "author": "",
   "license": "ISC",
