@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://jobs-api-mmhq.onrender.com/api/v1
+  - url: https://e-commerce-api-7k6r.onrender.com/api/v1
     variables: {}
 paths:
   /auth/register:
